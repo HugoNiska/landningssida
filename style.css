@@ -55,15 +55,15 @@ body {
 }
 
 .navbar a:hover{
-    background-color: #33333389;
-    color: #7371e9;
+    background-color: #0055ff89;
+    color: #ffffff;
     border-radius: 15px;
     transform: scale(1.1);
 }
 
 .button-ab {
     padding:10px 10px 10px 10px;
-    background-color: #130185a3;
+    background-color: #00319489;
     margin-right: 2%;
     border-radius: 15px;
     cursor: pointer;
